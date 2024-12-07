@@ -1,16 +1,18 @@
-# note_app
 
-A new Flutter project.
+# Note App
 
-## Getting Started
+**A simple note-taking app built with Flutter, Bloc, and Hive.**
 
-This project is a starting point for a Flutter application.
+## Features
+* **Create Notes:** Easily add new notes.
+* **Edit Notes:** Modify existing notes.
+* **Delete Notes:** Remove unwanted notes.
+* **Customize Notes:** Change the background color of notes.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+* **Flutter:** A powerful framework for building cross-platform apps.
+* **Bloc:** A state management library for reactive programming.
+* **Hive:** A lightweight and efficient database solution.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
